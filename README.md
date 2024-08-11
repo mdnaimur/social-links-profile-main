@@ -21,12 +21,12 @@ This project involves writing HTML and CSS code, uploading it to Git, providing 
 
 ### Screenshot
 
-![preview of  Social links profile solution](./screenshot.jpg)
+![preview of  Social links profile solution](preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mdnaimur/social-links-profile-main)
-- Live Site URL: [Add live site URL here](https://mdnaimur.github.io/social-links-profile-main/)
+- Solution URL: [github link for code](https://github.com/mdnaimur/social-links-profile-main)
+- Live Site URL: [live site URL here](https://mdnaimur.github.io/social-links-profile-main/)
 
 ## My process
 
