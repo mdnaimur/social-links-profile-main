@@ -41,11 +41,11 @@ a,ul,li{
     border-radius: 15px;
 
     max-width: 740px;
-    max-height: 560px;
+    max-height: 600px;
 
     margin-top: 120px;
     margin-bottom: 24px;
-    padding: 30px;
+    padding: 40px;
 }
 
 .card-profile{
@@ -75,7 +75,7 @@ a,ul,li{
 
 .title{
     font-size: var(--priamy-font-paragraph);
-    margin-bottom: 20px;
+    margin-bottom: 22px;
 }
 
 .social-link{
